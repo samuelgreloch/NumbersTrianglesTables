@@ -1,12 +1,12 @@
 # ZCW-MicroLabs-Loops
 
-## 1) 0 to 9
-In the class **Numbers**, complete the method called **oneToNine()** so that it returns a string of the numbers 0 to 9. The Unit Test is provided for you.
+## 1) 1 to 10
+In the class **Numbers**, complete the method called **oneToNine()** so that it returns a string of the numbers 1 to 10. The Unit Test is provided for you.
 
 ### Example<br>
-1: oneToNine()<br>
+1: oneToTen()<br>
 2: *** Output ***<br>
-3: 1<br>
+3: 0<br>
 4: 2<br>
 5: 3<br>
 6: 4<br>
@@ -15,7 +15,7 @@ In the class **Numbers**, complete the method called **oneToNine()** so that it 
 9: 7<br>
 10: 8<br>
 11: 9<br>
-12: 10<br>
+12: 10
 
 ## 2) Odd Numbers
         In the class **Numbers**, complete the method called **oddNumbers()** so that it returns a string of the positive odd numbers less than 20. The Unit Test is not provided for you, you must complete it.
@@ -52,7 +52,7 @@ In the class **Numbers**, complete the method called **oneToNine()** so that it 
 12: 100<br>
 
 ## 4) Random Numbers
-        In the class **Numbers**, complete the method called **random4()** so that it returns a string of out four random integers between 1 and 10. The Unit Test is not provided for you, you must complete it.
+        In the class **Numbers**, complete the method called **random4()** so that it returns a string of out four random integers between 0 and 9. The Unit Test is not provided for you, you must complete it.
 
         ### Example<br>
 1: random4()<br>
