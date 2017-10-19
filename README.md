@@ -1,7 +1,7 @@
 # ZCW-MicroLabs-Loops
 
 ## 1) 1 to 10
-In the class **Numbers**, complete the method called **oneToNine()** so that it returns a string of the numbers 1 to 10. The Unit Test is provided for you.
+In the class **Numbers**, complete the method called **oneToTen()** so that it returns a string of the numbers 1 to 10. The Unit Test is provided for you.
 
 ### Example<br>
 1: oneToTen()<br>
