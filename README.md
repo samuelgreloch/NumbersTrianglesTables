@@ -52,9 +52,9 @@ In the class **Numbers**, complete the method called **oneToTen()** so that it r
 12: 100<br>
 
 ## 4) Random Numbers
-        In the class **Numbers**, complete the method called **random4()** so that it returns a string of out four random integers between 0 and 9. The Unit Test is not provided for you, you must complete it.
+In the class **Numbers**, complete the method called **random4()** so that it returns a string of out four random integers between 0 and 9. The Unit Test is not provided for you, you must complete it.
 
-        ### Example<br>
+### Example<br>
 1: random4()<br>
 2: *** Output *** <br>
 3: 3<br>
