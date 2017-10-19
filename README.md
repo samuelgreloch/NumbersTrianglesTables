@@ -1,9 +1,9 @@
 # ZCW-MicroLabs-Loops
 
-        ## 1) 0 to 9
-        In the class **Numbers**, complete the method called **oneToNine()** so that it returns a string of the numbers 0 to 9. The Unit Test is provided for you.
+## 1) 0 to 9
+In the class **Numbers**, complete the method called **oneToNine()** so that it returns a string of the numbers 0 to 9. The Unit Test is provided for you.
 
-        ### Example<br>
+### Example<br>
 1: oneToNine()<br>
 2: *** Output ***<br>
 3: 1<br>
