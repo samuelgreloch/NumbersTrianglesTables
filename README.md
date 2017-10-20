@@ -97,17 +97,30 @@ In the class **Numbers**, complete the method called **powers()** so that it ret
 10: 256<br>
 
 ## 7) Are we there yet?
+* Modify method `areWeThereYet` in the class `CarRide`.
+	* This method should  return `"Good!"` when receiving an argument of `"Yes"`.
+* Create class `CarRideTest`
+	* Create method `testAreWeThereYet1`
+		* The method should ensure the `areWeThereYet` method returns `"Good!"` upon passing an arugment of `"Yes"`.
 
-In the class **CarRide**, complete the class so that it returns that outputs "Are we there yet?" and then waits for input. If the input is "Yes" the program ouputs "Good!" and exits, otherwite the program loops. The Unit Tests is not provided for you, you must complete it.
+	* Create method `testAreWeThereYet2`
+		* The method should ensure the `areWeThereYet` method does not return `"Good!"` when receving an argument that is not `"Yes"`.
 
-### Example<br>
-1: "Are we there yet?"<br>
-2: No<br>
-3: "Are we there yet?"<br>
-4: Spoons<br>
-5: "Are we there yet?"<br>
-6: Yes<br>
-7: Good!<br>
+* Create class `MainApplication`
+	* Using the `CarRide` class, continually prompt the user for input until they response with `"Yes"`.
+	* Upon termination, the application should display the value returned from invokation of `areWeThereYet`.
+
+
+### Sample Console Output<br>
+```
+1: Are we there yet?
+2: No
+3: Are we there yet?
+4: Spoons
+5: Are we there yet?
+6: Yes
+7: Good!
+```
 
 ## 8) Triangle
 
