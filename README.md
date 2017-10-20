@@ -35,7 +35,7 @@ In the class **Numbers**, complete the method called **oneToTen()** so that it r
 12: 19<br>
 
 ## 3) Square Numbers
-        In the class **Numbers**, complete the method called **squares()** so that it returns a string of the square numbers up to 100. The Unit Test is not provided for you, you must complete it.
+In the class **Numbers**, complete the method called **squares()** so that it returns a string of the square numbers up to 100. The Unit Test is not provided for you, you must complete it.
 
         ### Example<br>
 1: squares()<br>
@@ -67,7 +67,7 @@ In the class **Numbers**, complete the method called **random4()** so that it re
 
 In the class **Numbers**, complete the method called **even()** so that it returns a string of the positive even numbers less than n. The Unit Test is not provided for you, you must complete it.
 
-        ### Example<br>
+### Example<br>
 1: even(20)<br>
 2: *** Output *** <br>
 3: 2<br>
@@ -82,9 +82,9 @@ In the class **Numbers**, complete the method called **even()** so that it retur
 
 ## 6) Powers of 2
 
-        In the class **Numbers**, complete the method called **powers()** so that it returns a string of out the powers of 2 from 2^1 up to to 2^n. The Unit Test is not provided for you, you must complete it.
+In the class **Numbers**, complete the method called **powers()** so that it returns a string of out the powers of 2 from 2^1 up to to 2^n. The Unit Test is not provided for you, you must complete it.
 
-        ### Example<br>
+### Example<br>
 1: powers(8)<br>
 2: *** Output *** <br>
 3: 2<br>
@@ -98,9 +98,9 @@ In the class **Numbers**, complete the method called **even()** so that it retur
 
 ## 7) Are we there yet?
 
-        In the class **CarRide**, complete the class so that it returns that outputs "Are we there yet?" and then waits for input. If the input is "Yes" the program ouputs "Good!" and exits, otherwite the program loops. The Unit Tests is not provided for you, you must complete it.
+In the class **CarRide**, complete the class so that it returns that outputs "Are we there yet?" and then waits for input. If the input is "Yes" the program ouputs "Good!" and exits, otherwite the program loops. The Unit Tests is not provided for you, you must complete it.
 
-        ### Example<br>
+### Example<br>
 1: "Are we there yet?"<br>
 2: No<br>
 3: "Are we there yet?"<br>
@@ -111,9 +111,9 @@ In the class **Numbers**, complete the method called **even()** so that it retur
 
 ## 8) Triangle
 
-        In the class **Shapes**, complete the method called **triangle()** so that it uses nested loops to produce the following pattern . The Unit Test is not provided for you, you must complete it.
+In the class **Shapes**, complete the method called **triangle()** so that it uses nested loops to produce the following pattern . The Unit Test is not provided for you, you must complete it.
 
-        ### Example<br>
+### Example<br>
 1: triangle()<br>
 2: *** Output *** <br>
 3: * <br>
@@ -124,9 +124,9 @@ In the class **Numbers**, complete the method called **even()** so that it retur
 
 ## 9) Table Square
 
-        In the class **Shapes**, complete the method called **tableSquare()** so that it uses nested loops to produce a 4x4 table square. The Unit Test is not provided for you, you must complete it.
+In the class **Shapes**, complete the method called **tableSquare()** so that it uses nested loops to produce a 4x4 table square. The Unit Test is not provided for you, you must complete it.
 
-        ### Example<br>
+### Example<br>
 tableSquare()<br>
 *** Output *** <br>
 A 4 x 4 table square<br>
@@ -139,11 +139,11 @@ A 4 x 4 table square<br>
 
          ```
 
-         ## 10) Table Squares
+ ## 10) Table Squares
 
-         In the class **Shapes**, extend your answer to the last question produce a method that will return string of characters out og ***n x n*** table square. The Unit Test is not provided for you, you must complete it.
+ In the class **Shapes**, extend your answer to the last question produce a method that will return string of characters out og ***n x n*** table square. The Unit Test is not provided for you, you must complete it.
 
-        ### Example<br>
+### Example<br>
  tableSquares(6)<br>
  *** Output *** <br>
  A 6 x 6 table square<br>
