@@ -18,9 +18,9 @@ In the class **Numbers**, complete the method called **oneToTen()** so that it r
 12: 10
 
 ## 2) Odd Numbers
-        In the class **Numbers**, complete the method called **oddNumbers()** so that it returns a string of the positive odd numbers less than 20. The Unit Test is not provided for you, you must complete it.
+In the class **Numbers**, complete the method called **oddNumbers()** so that it returns a string of the positive odd numbers less than 20. The Unit Test is not provided for you, you must complete it.
 
-        ### Example<br>
+### Example<br>
 1: oddNumbers()<br>
 2: *** Output *** <br>
 3: 1<br>
