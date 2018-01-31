@@ -1,8 +1,8 @@
 # ZCW-MicroLabs-Loops
-## 1) NumberUtilities
-## 2) TriangleUtilities
-## 3) TableUtilities
-
+* Read through each of the following `README` files and complete each of the asks.
+    * [README-NumberUtilities.md](./README-NumberUtilities.md)
+    * [README-TriangleUtilities.md](./README-NumberUtilities.md)
+    * [README-TableUtilities.md](./README-NumberUtilities.md)
 
 
 
