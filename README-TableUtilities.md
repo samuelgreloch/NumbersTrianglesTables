@@ -35,7 +35,7 @@
 
 
 
-
+<br><br><br><br>
 ## `String getSmallMultiplicationTable()`
 * **Description**
     * Generate a `String` representation of a multiplication table whose dimensions are `4` by `4`
