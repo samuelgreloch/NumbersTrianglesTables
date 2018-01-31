@@ -1,5 +1,5 @@
 # NumberUtilities
-* Ensure each of the test cases in the class [NumberUtilitiesTest]() successfully passes upon completion of each method stubs in the class [NumberUtilities]().
+* Ensure each of the test cases in the class [NumberUtilitiesTest](https://github.com/Zipcoder/CR-MicroLabs-Loops-NumbersTrianglesTables/blob/master/src/test/java/io/zipcoder/microlabs/mastering_loops/NumberUtilitiesTest.java) successfully passes upon completion of each method stubs in the class [NumberUtilities](https://github.com/Zipcoder/CR-MicroLabs-Loops-NumbersTrianglesTables/blob/master/src/main/java/io/zipcoder/microlabs/mastering_loops/NumberUtilities.java).
     * `String getEvenNumbers(int start, int stop)` 
     * `String getOddNumbers(int start, int stop)`
     * `String getSquareNumbers(int start, int stop, int step)` 
@@ -12,11 +12,7 @@
 
 
 
-
-
-
-
-
+<br><br><br><br>
 ## `String getRange(int stop)`
 * **Description**
     * Given an integer, `stop`, return a `String` concatenation of all values between `0` and `stop` exclusively.
