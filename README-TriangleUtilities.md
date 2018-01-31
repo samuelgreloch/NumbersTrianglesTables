@@ -5,6 +5,7 @@
     * `String getMultiplicationTable(int tableSize)`
     
 
+<br><br><br><br>
 ## `String getRow(int width)`
 * **Description**
     * In the class, `Triangles` Write a method that returns a `String` representation of a row of asterisks whose length is equal to the `width` specified.
