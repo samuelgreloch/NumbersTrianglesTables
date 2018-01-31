@@ -149,3 +149,7 @@ fabric.properties
 .project
 .classpath
 .settings
+
+
+#maven build target
+target/
