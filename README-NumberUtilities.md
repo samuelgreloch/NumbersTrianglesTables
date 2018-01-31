@@ -24,7 +24,7 @@
     int stop = 11;
     
     // : When
-    String outcome = StringLoops.getRange(stop);
+    String outcome = NumberUtilities.getRange(stop);
     
     // : Then
     System.out.println(outcome);
@@ -59,7 +59,7 @@
     int stop = 11;
     
     // : When
-    String outcome = StringLoops.getRange(start, stop);
+    String outcome = NumberUtilities.getRange(start, stop);
     
     // : Then
     System.out.println(outcome);
@@ -91,7 +91,7 @@
     int step = 5;
     
     // : When
-    String outcome = StringLoops.getRange(min, max, step);
+    String outcome = NumberUtilities.getRange(min, max, step);
     
     // : Then
     System.out.println(outcome);
@@ -130,7 +130,7 @@
     int stop = 20;
     
     // : When
-    String outcome = StringLoops.getOddNumbers(min, max);
+    String outcome = NumberUtilities.getOddNumbers(min, max);
     
     // : Then
     System.out.println(outcome);
@@ -158,7 +158,7 @@
     int stop = 20;
     
     // : When
-    String outcome = StringLoops.getOddNumbers(min, max);
+    String outcome = NumberUtilities.getOddNumbers(min, max);
     
     // : Then
     System.out.println(outcome);
@@ -199,7 +199,7 @@
     int stop = 20;
     
     // : When
-    String outcome = StringLoops.getOddNumbers(min, max);
+    String outcome = NumberUtilities.getOddNumbers(min, max);
     
     // : Then
     System.out.println(outcome);
@@ -238,7 +238,7 @@
     int exponent = 2;
     
     // : When
-    String outcome = StringLoops.getOddNumbers(min, max);
+    String outcome = NumberUtilities.getOddNumbers(min, max);
     
     // : Then
     System.out.println(outcome);
