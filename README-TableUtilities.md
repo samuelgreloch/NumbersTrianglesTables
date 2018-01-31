@@ -102,7 +102,7 @@
     
     
     
-
+<br><br><br><br>
 ## `String getLargeMultiplicationTable()`
 * **Description**
     * Given one integer, `width`, generate a `String` representation of a multiplication table whose dimensions are `width` by `width`
@@ -174,7 +174,7 @@
     
     
     
-    
+<br><br><br><br>
 ## `String getMultiplicationTable(int width)`
 * **Description**
     * Given one integer, `width`, generate a `String` representation of a multiplication table whose dimensions are `width` by `width`
