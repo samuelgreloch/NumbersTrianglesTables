@@ -1,4 +1,10 @@
 # TriangleUtilities
+* Ensure each of the test cases in the class [TriangleUtilitiesTest](https://github.com/Zipcoder/CR-MicroLabs-Loops-NumbersTrianglesTables/blob/master/src/test/java/io/zipcoder/microlabs/mastering_loops/TriangleUtilitiesTest.java) successfully passes upon completion of each method stubs in the class [TriangleUtilities](https://github.com/Zipcoder/CR-MicroLabs-Loops-NumbersTrianglesTables/blob/master/src/main/java/io/zipcoder/microlabs/mastering_loops/TriangleUtilities.java).
+    * `String getSmallMultiplicationTable()`
+    * `String getLargeMultiplicationTable()`
+    * `String getMultiplicationTable(int tableSize)`
+    
+
 ## `String getRow(int width)`
 * **Description**
     * In the class, `Triangles` Write a method that returns a `String` representation of a row of asterisks whose length is equal to the `width` specified.
