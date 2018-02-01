@@ -1,5 +1,5 @@
 # TableUtilities
-* Ensure each of the test cases in the class [TableUtilitiesTest](https://github.com/Zipcoder/CR-MicroLabs-Loops-NumbersTrianglesTables/blob/master/src/test/java/io/zipcoder/microlabs/mastering_loops/TableUtilitiesTest.java) successfully passes upon completion of each method stubs in the class [TableUtilities](https://github.com/Zipcoder/CR-MicroLabs-Loops-NumbersTrianglesTables/blob/master/src/main/java/io/zipcoder/microlabs/mastering_loops/TableUtilities.java).
+* Ensure each of the test cases in the class [TableUtilitiesTest](https://github.com/Zipcoder/CR-MicroLabs-Loops-NumbersTrianglesTables/blob/master/src/test/java/io/zipcoder/microlabs/mastering_loops/TableUtilitiesTest.java) successfully passes upon completion of each of the method stubs in the class [TableUtilities](https://github.com/Zipcoder/CR-MicroLabs-Loops-NumbersTrianglesTables/blob/master/src/main/java/io/zipcoder/microlabs/mastering_loops/TableUtilities.java).
     * `String getLargeMultiplicationTable()`
     * `String getSmallMultiplicationTable()`
     * `String getMultiplicationTable(int width)`
@@ -114,7 +114,7 @@
     ```
     // : Given    
     // : When
-    String outcome = Tables.getLargeMultiplicationTable();
+    String outcome = TableUtilities.getLargeMultiplicationTable();
     
     // : Then
     System.out.println(outcome);
@@ -185,7 +185,7 @@
     int n = 3;
     
     // : When
-    String outcome = Tables.getMultiplicationTable(n);
+    String outcome = TableUtilities.getMultiplicationTable(n);
     
     // : Then
     System.out.println(outcome);
@@ -211,7 +211,7 @@
     int n = 6;
     
     // : When
-    String outcome = Tables.getMultiplicationTable(n);
+    String outcome = TableUtilities.getMultiplicationTable(n);
     
     // : Then
     System.out.println(outcome);
