@@ -15,7 +15,7 @@
 <br><br><br><br>
 ## `String getRange(int stop)`
 * **Description**
-    * Given an integer, `stop`, return a `String` concatenation of all integers between `0` and `stop` exclusively.
+    * Given an integer, `stop`, return a `String` concatenation of all integers between `0` up to and not including `stop`.
 ### Example
 * Sample Script
 
@@ -49,7 +49,7 @@
 <br><br><br><br>
 ## `String getRange(int start, int stop)`
 * **Description**
-    * Given two integers, `start`, and `stop`, return a `String` concatenation of all integers between `start` and `stop` exclusively.
+    * Given two integers, `start`, and `stop`, return a `String` concatenation of all integers between `start` up to and not including `stop`.
 ### Example
 * Sample Script
 
@@ -80,7 +80,7 @@
 <br><br><br><br>
 ## `String getRange(int start, int stop, int step)`
 * **Description**
-    * Given three integers, `start`, `stop`, and `step` return a `String` concatenation of all integers between `start` and `stop` exclusively incrementing by `step`.
+    * Given three integers, `start`, `stop`, and `step` return a `String` concatenation of all integers between `start` up to and not including `stop`.
 ### Example
 * Sample Script
 
@@ -120,7 +120,7 @@
 <br><br><br><br>
 ## `String getEvenNumbers(int start, int stop)`
 * **Description**
-    * Given two integers, `start`, and `stop`, return a `String` concatenation of all even integers between `start` and `stop` exclusively.
+    * Given two integers, `start`, and `stop`, return a `String` concatenation of all even integers between `start` up to and not including `stop`.
 ### Example
 * Sample Script
 
@@ -148,7 +148,7 @@
 <br><br><br><br>
 ## `String getOddNumbers(int start, int stop)`
 * **Description**
-    * Given two integers, `start`, and `stop`, return a `String` concatenation of all even integers between `start` and `stop` exclusively.
+    * Given two integers, `start`, and `stop`, return a `String` concatenation of all even integers between `start` up to and not including `stop`.
 ### Example
 * Sample Script
 
@@ -189,7 +189,7 @@
 <br><br><br><br>
 ## `String getSquareNumbers(int start, int stop)`
 * **Description**
-    * Given two integers, `start`, and `stop`, return a `String` concatenation of all values squared between `start` and `stop` exclusively.
+    * Given two integers, `start`, and `stop`, return a `String` concatenation of all values squared between `start` up to and not including `stop`.
 ### Example
 * Sample Script
 
@@ -226,7 +226,7 @@
 <br><br><br><br>
 ## `String getExponentiations(int start, int stop, int step, int exponent)`
 * **Description**
-    * Given four integers, `start`, `stop`, `step`, and `exponent`, return a `String` concatenation of all values, raised to the specified `exponent`, between `start` and `stop` exclusively, incrementing by the specified `step`.
+    * Given four integers, `start`, `stop`, `step`, and `exponent`, return a `String` concatenation of all values, raised to the specified `exponent`, between `start` up to and not including `stop`, incrementing by the specified `step`.
 ### Example
 * Sample Script
 
