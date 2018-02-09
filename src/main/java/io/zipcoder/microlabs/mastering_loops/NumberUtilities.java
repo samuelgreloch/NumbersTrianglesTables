@@ -16,6 +16,14 @@ public class NumberUtilities {
         return null;
     }
 
+    public static String getRange(int start) {
+        return null;
+    }
+
+    public static String getRange(int start, int stop) {
+        return null;
+    }
+
 
     public static String getRange(int start, int stop, int step) {
         return null;
