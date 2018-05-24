@@ -80,7 +80,7 @@
 <br><br><br><br>
 ## `String getRange(int start, int stop, int step)`
 * **Description**
-    * Given three integers, `start`, `stop`, and `step` return a `String` concatenation of all integers between `start` up to and not including `stop`.
+    * Given three integers, `start`, `stop`, and `step` return a `String` concatenation of all integers between `start`, incrementing by `step`, up to and not including `stop`.
 ### Example
 * Sample Script
 
