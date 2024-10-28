@@ -5,6 +5,28 @@ import org.junit.Test;
 
 public class NumberUtilitiesTest {
     @Test
+    public void testIsEven() {
+        // : Given
+        int given = 2;
+        boolean expected = true;
+        // : When
+        boolean actual = NumberUtilities.isNumberEven(given);
+        // : Then
+        Assert.assertEquals(expected, actual);
+    }
+
+    @Test
+    public void testIsOdd() {
+        // : Given
+        int given = 3;
+        boolean expected = true;
+        // : When
+        boolean actual = NumberUtilities.isNumberOdd(given);
+        // : Then
+        Assert.assertEquals(expected, actual);
+    }
+
+    @Test
     public void testGetRange1A() {
         // : Given
         String expected = "0123456789";
