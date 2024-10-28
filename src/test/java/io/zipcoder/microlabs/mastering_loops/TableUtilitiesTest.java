@@ -7,6 +7,26 @@ import org.junit.Test;
  * Created by leon on 1/31/18.
  */
 public class TableUtilitiesTest {
+
+    @Test
+    public void testTable3() {
+        String expected = "  1 |  2 |  3 |\n" +
+                        "  2 |  4 |  6 |\n" +
+                        "  3 |  6 |  9 |\n";
+
+        String actual = TableUtilities.getMultiplicationTable(3);
+        Assert.assertEquals(expected, actual);
+    }
+
+    @Test
+    public void testTable2() {
+        String expected = "  1 |  2 |\n" + "  2 |  4 |\n";
+
+        String actual = TableUtilities.getMultiplicationTable(2);
+        Assert.assertEquals(expected, actual);
+    }
+
+
     @Test
     public void testGetLargeMultiplicationTable() {
         String expected =
