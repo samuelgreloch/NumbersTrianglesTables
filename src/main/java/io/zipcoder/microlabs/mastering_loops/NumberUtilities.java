@@ -4,20 +4,38 @@ package io.zipcoder.microlabs.mastering_loops;
 public class NumberUtilities {
 
     public static String getExponentiations(int start, int stop, int step, int exponent) {
+
+
         return null;
     }
 
     public static String getRange(int start, int stop, int step) {
-        return null;
+        StringBuilder result = new StringBuilder();
+
+
+            for (int e = start; e < stop; e = e + step) ;{
+
+
+
+              //  result.append(e);
+
+
+
+        }
+            return result.toString();
     }
+
+
 
     public static String getRange(int start, int stop) {
-        return null;
-    }
 
-    public static String getRange(int stop) {
-        return null;
+        return getRange(start, stop, 1);
     }
+    public static String getRange(int stop) {
+        getRange(0, stop, 1);
+    return null;}
+
+
 
     /*
      * natural break
